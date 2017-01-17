@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Running CNN using TensorFlow on MNIST
-date: '2017-01-10T19:36:00.000-07:00'
-author: Xiaoliang Bai
+title: "Convolutional Neural Network (CNN) using TensorFlow on MNIST dataset"
+description: ""
+category: 
 tags: 
 - Deep Learning
 - Neural Network
 - TensorFlow
 ---
+{% include JB/setup %}
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
@@ -12270,3 +12271,4 @@ step 19900, training accuracy 1
   </div>
 </body>
 </html>
+
