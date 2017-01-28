@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Live as if you were to die tomorrow; Learn as if you were live forever"
+title: "Make Everyday Count"
 tagline: Supporting tagline
 ---
 
