@@ -4,7 +4,7 @@ title: "Fully Connected Neural Network on Computer Vision"
 description: ""
 category: 
 tags:
- - Deep Learing
+ - Deep Learning
  - Neural Network
  - Fully Connected Network
 ---
