@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Live & Learn
+title: "Live as if you were to die tomorrow; Learn as if you were live forever"
 tagline: Supporting tagline
 ---
 
