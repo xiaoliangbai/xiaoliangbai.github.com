@@ -11762,7 +11762,7 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Apply-CNN-to-MNIST-Problem">Apply CNN to MNIST Problem<a class="anchor-link" href="#Apply-CNN-to-MNIST-Problem">&#182;</a></h1><p>This is based on TensorFlow Tutorial. 
-We will a simple CNN with Relu and dropout for <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a> handwriting digits</p>
+We will a simply apply CNN with Relu and dropout for <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a> handwriting digits</p>
 
 </div>
 </div>
