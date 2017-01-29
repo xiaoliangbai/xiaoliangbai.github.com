@@ -11762,6 +11762,7 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Applying-Convolution-Filters-in-Image-Processing">Applying Convolution Filters in Image Processing<a class="anchor-link" href="#Applying-Convolution-Filters-in-Image-Processing">&#182;</a></h1><p>In other blogs I used built-in Sobel, Canny, etc. functions to apply filters. In this one we build convolution function in Python and apply filters directly.</p>
+<p>Adapted from cs231n project</p>
 
 </div>
 </div>
