@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reconfigurable Convolutional Neural Network"
+title: "Configurable Convolutional Neural Network"
 description: ""
 category: 
 tags: 
