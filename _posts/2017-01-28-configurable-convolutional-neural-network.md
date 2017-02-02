@@ -11594,6 +11594,7 @@ ul.typeahead-list > li > a {
 <style type="text/css">
     .highlight .hll { background-color: #ffffcc }
 .highlight  { background: #f8f8f8; }
+.highlight .n { color: #040404} 
 .highlight .c { color: #408080; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #FF0000 } /* Error */
 .highlight .k { color: #008000; font-weight: bold } /* Keyword */
