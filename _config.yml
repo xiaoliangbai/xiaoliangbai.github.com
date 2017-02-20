@@ -84,18 +84,18 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : xiaoliangbai
     livefyre :
-      site_id : 123
+      site_id : xiaoliangbai_git
     intensedebate :
-      account : 123abc
+      account : xiaoliangbai
     facebook :
-      appid : 123
+      appid : xiaoliangbai_git
       num_posts: 5
       width: 580
       colorscheme: light
     duoshuo :
-      short_name : jekyllbootstrap
+      short_name : xiaoliangbai 
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
