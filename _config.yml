@@ -84,18 +84,18 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : xiaoliangbai
+      short_name : deeplearning-xbai
     livefyre :
-      site_id : xiaoliangbai_git
+      site_id : 
     intensedebate :
-      account : xiaoliangbai
+      account : 
     facebook :
-      appid : xiaoliangbai_git
+      appid : 
       num_posts: 5
       width: 580
       colorscheme: light
     duoshuo :
-      short_name : xiaoliangbai 
+      short_name :
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
