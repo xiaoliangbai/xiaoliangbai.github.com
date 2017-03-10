@@ -1,4 +1,15 @@
-<!DOCTYPE html>
+---
+layout: post
+title: "Artistic Painter Using VGG 19 Neural Network"
+description: ""
+category: 
+tags: 
+ - Computer Vision
+ - VGG
+ - Deep Neural Network
+ - Deep Learning
+---
+{% include JB/setup %}
 <html>
 <head><meta charset="utf-8" />
 <title>TensorFlow_VGG_Artistic_Painter</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
