@@ -10,7 +10,6 @@ tags:
   -- Machine Learning
 ---
 {% include JB/setup %}
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 <title>LinearRegression_MNIST</title>
