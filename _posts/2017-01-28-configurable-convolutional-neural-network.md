@@ -11763,7 +11763,7 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Convolutional-Network-Framework-in-Python">Convolutional Network Framework in Python<a class="anchor-link" href="#Convolutional-Network-Framework-in-Python">&#182;</a></h1><p>To test configurable CNN network on CIFAR10
-</p>
+Based on 2016 cs231n project</p>
 
 </div>
 </div>
