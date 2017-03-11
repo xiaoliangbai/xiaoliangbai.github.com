@@ -11761,7 +11761,7 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Fully-Connected-Neural-Network-with-Batch-Normalization">Fully-Connected Neural Network with Batch Normalization<a class="anchor-link" href="#Fully-Connected-Neural-Network-with-Batch-Normalization">&#182;</a></h1><p>Two layers of fully connected nerual network.
-Adapated based on cs231n project</p>
+</p>
 <p>Activation function uses Rectified Linear Unit <a href="https://en.wikipedia.org/wiki/Rectifier_(neural_networks">(ReLU)</a></p>
 <p>To help activations pass through layers of network, <a href="jmlr.org/proceedings/papers/v37/ioffe15.pdf">Batch Normalization</a> layer is added to center and normalize the activations</p>
 
