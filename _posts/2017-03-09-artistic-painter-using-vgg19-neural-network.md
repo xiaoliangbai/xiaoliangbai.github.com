@@ -10,6 +10,9 @@ tags:
  - Deep Learning
 ---
 {% include JB/setup %}
+<div style="float:center;" markdown="1">
+   ![VGG Artistic Painter Generated Output](/assets/images/vgg_painter_animation.gif)
+</div>
 <html>
 <head><meta charset="utf-8" />
 <title>TensorFlow_VGG_Artistic_Painter</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
