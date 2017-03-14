@@ -11,7 +11,7 @@ tags:
 ---
 {% include JB/setup %}
 <div style="float:center;" markdown="1">
-   ![VGG Artistic Painter Generated Output](/assets/images/vgg_painter_animation.gif)
+   ![VGG Artistic Painter Generated Output](/assets/images/opt_vgg_painter_animation.gif)
 </div>
 <html>
 <head><meta charset="utf-8" />
