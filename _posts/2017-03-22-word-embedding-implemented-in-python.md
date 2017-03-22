@@ -3,7 +3,11 @@ layout: post
 title: "Word Embedding Implemented in Python"
 description: ""
 category: 
-tags: []
+tags: 
+ - Deep Learning
+ - Word Embedding
+ - Word Vector
+ - NLP
 ---
 {% include JB/setup %}
 <html>
